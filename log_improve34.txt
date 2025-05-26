@@ -1,0 +1,13 @@
+[2025-05-02 18:31:50] --- Epoch [1/5] ---
+[2025-05-02 18:33:20] Epoch [1/5] Complete - Loss: 0.7269, Accuracy: 0.8377
+[2025-05-02 18:33:20] --- Epoch [2/5] ---
+[2025-05-02 18:34:40] Epoch [2/5] Complete - Loss: 0.0576, Accuracy: 0.9915
+[2025-05-02 18:34:40] --- Epoch [3/5] ---
+[2025-05-02 18:36:19] Epoch [3/5] Complete - Loss: 0.0461, Accuracy: 0.9922
+[2025-05-02 18:36:19] --- Epoch [4/5] ---
+[2025-05-02 18:38:01] Epoch [4/5] Complete - Loss: 0.0278, Accuracy: 0.9947
+[2025-05-02 18:38:01] --- Epoch [5/5] ---
+[2025-05-02 18:39:34] Epoch [5/5] Complete - Loss: 0.0191, Accuracy: 0.9965
+[2025-05-02 18:39:34] Saved model at ./check_improve_nogs_34\resnet34_epoch5.pth
+[2025-05-02 18:39:34] === Evaluating Saved Models ===
+[2025-05-02 18:39:48] resnet34_epoch5.pth - Test Accuracy: 0.8290
